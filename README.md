@@ -1,4 +1,5 @@
 **Java Lambda & Stream API Exercises**
+
 This repository showcases a comprehensive collection of exercises designed to illustrate the power and versatility of Lambda Expressions and the Stream API in Java 8 and beyond. Through a series of progressively challenging tasks, you'll explore how these modern Java features enable more concise, readable, and efficient code for data processing and functional programming paradigms.
 
 The exercises are carefully structured across multiple levels, starting with fundamental concepts and gradually introducing more intricate scenarios. This allows for a steady learning curve, enabling you to build a solid understanding of:
