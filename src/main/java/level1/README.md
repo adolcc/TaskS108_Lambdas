@@ -1,5 +1,8 @@
 #### Nivel 1
 
+Para todos los ejercicios debe utilizarse la API de Java Lambdas and Streams de Java 8+. 
+
+
 - Ejercicio 1
 A partir de una lista de Strings, escribe un método que devuelve una lista de todas las cadenas que contienen la letra 'o'. Imprime el resultado.
 ___
